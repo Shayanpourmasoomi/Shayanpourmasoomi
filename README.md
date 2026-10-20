@@ -18,7 +18,7 @@ Tehran opened 48 metro stations between 2015 and 2023. I ask whether a new stati
 
 ### Research experience
 
-**Research Assistant / Policy Researcher, Islamic Parliament Research Center (IPRC), Iranian Parliament** (2026)  
+**Research Assistant / Policy Researcher, Islamic Parliament Research Center (IPRC)** (2026)  
 Worked with ten years of individual income-tax returns, about 100 million taxpayer records. I built Python pipelines to clean, link and analyse the returns, and contributed to policy reports on effective tax rates and tax-system reform.
 
 ### Selected projects
