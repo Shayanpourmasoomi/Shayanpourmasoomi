@@ -34,7 +34,7 @@ MSc Economics student at **Sharif University of Technology**, working in **appli
 
 | Project | Topic |
 |---|---|
-| [Deep learning projects](https://github.com/Shayanpourmasoomi/deep-learning-projects) | 12 PyTorch projects: CLIP + LoRA, QLoRA LLM fine-tuning, VAE, VQ-VAE-2, DDPM, Stable Diffusion internals |
+| [Deep learning projects](https://github.com/Shayanpourmasoomi/deep-learning-projects) | 13 PyTorch projects: CLIP + LoRA, QLoRA LLM fine-tuning, VAE, VQ-VAE-2, DDPM, Stable Diffusion internals |
 | [Physics-informed neural networks](https://github.com/Shayanpourmasoomi/pinn-notebook) | PyTorch, differential equations |
 | [Regularisation in deep networks](https://github.com/Shayanpourmasoomi/machine-learning-practical-2) | Dropout, L2, batch norm on MNIST |
 | [Car prices: regression from scratch](https://github.com/Shayanpourmasoomi/intro-to-machine-learning-assignment) | OLS, ridge, lasso in NumPy |
