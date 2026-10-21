@@ -41,7 +41,7 @@ Worked with ten years of individual income-tax returns, about 100 million taxpay
 | [Labour-market indicators](https://github.com/Shayanpourmasoomi/Iran-labour-force-data-cleaning) | Labour Force Survey |
 | [Household spending by decile](https://github.com/Shayanpourmasoomi/Household-Income-Expenditure-survey_Data-Cleaning) | Household Income and Expenditure Survey |
 
-**Machine learning**
+**Machine learning & Deep learning**
 
 | Project | Topic |
 |---|---|
