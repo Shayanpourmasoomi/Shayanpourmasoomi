@@ -6,10 +6,12 @@ MSc Economics student at **Sharif University of Technology**, working in **appli
 
 ### Current research
 
-**Do Metro Expansions Increase Local Economic Activity? Satellite and Tax Evidence from Tehran** (with Saeed Tajrishy)  
-*Accepted for the Economic Research Forum (ERF) 33rd Annual Conference, April 2027.*
+**Do Metro Expansions Change Local Economic Activity? Satellite and Tax Evidence from Tehran** (with Saeed Tajrishy)  
+*Working paper, November 2026. Accepted for the Economic Research Forum (ERF) 33rd Annual Conference, April 2027.*
 
-Tehran opened 48 metro stations between 2015 and 2023. I ask whether a new station raises economic activity in the surrounding neighbourhood. The project builds a grid-level spatial panel from VIIRS nighttime-light imagery and administrative tax records, and exploits the staggered timing of openings with the Callaway–Sant'Anna difference-in-differences estimator and event-study designs, so that early- and late-treated areas are compared correctly.
+[**Paper (PDF)**](https://github.com/Shayanpourmasoomi/tehran-metro-local-business/blob/main/paper/Pourmasoomi_Tajrishy_2026_Metro_Expansions_Tehran.pdf) · [**Code and replication files**](https://github.com/Shayanpourmasoomi/tehran-metro-local-business)
+
+Tehran opened 49 new metro stations between 2015 and 2025, on top of 77 already in operation. I ask whether a new station in a mature network changes local business activity. The paper uses the tax records of all individual business taxpayers in the city and VIIRS night lights, and applies the Callaway–Sant'Anna staggered difference-in-differences estimator with event studies, HonestDiD sensitivity bounds and a straight-line instrument. New stations raise the number of already-established businesses that keep filing nearby, with the effect building up slowly over the years after opening. Night lights show no stable effect. The tax data are confidential and not published; all estimates and code are in the repository.
 
 **Other work**
 
