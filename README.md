@@ -15,7 +15,8 @@ Tehran opened 49 new metro stations between 2015 and 2025, on top of 77 already 
 
 **Other work**
 
-- **From Primary Schools to Secondary Education:** the expansion of Iran's Literacy Corps and educational investment, 1968–1975. Provincial panel built from historical administrative statistics.
+- **From Primary School to High School: The Literacy Corps and Provincial Investment in Education in Iran, 1968–1976.** *Term paper, Social Economics, Spring 2026.* [Paper (PDF)](https://github.com/Shayanpourmasoomi/literacy-corps-iran/blob/main/paper/literacy_corps_iran.pdf) · [Code and data](https://github.com/Shayanpourmasoomi/literacy-corps-iran)  
+  A panel of 23 provinces built from the national education yearbooks. Provinces where the Literacy Corps grew faster did not end up with fewer teachers per student, and high schools grew along with primary schools rather than becoming a bottleneck.
 - **Long-run educational effects of land reform on rural human capital in Iran.** Triple-differences design using regional variation in policy intensity (proposal).
 
 ### Research experience
